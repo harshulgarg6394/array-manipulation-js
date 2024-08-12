@@ -46,4 +46,10 @@ sorting(myArray);
 sumArray(myArray);
 avg(myArray)
 
+// Output:
+// [ 3, 5, 8, 7, 9, 4 ]
+// [ 3, 5, 8, 7, 4 ]
+// [ 3, 4, 5, 7, 8 ]
+// 27
+// 5.4
 
